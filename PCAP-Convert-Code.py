@@ -34,4 +34,4 @@ def pcapng_to_csv(pcapng_file, output_csv):
         print(f"Error reading .pcapng file: {e}")
 
 # Example usage
-pcapng_to_csv('abbas.pcapng', 'output.csv')
+pcapng_to_csv('Example.pcapng', 'output.csv')
